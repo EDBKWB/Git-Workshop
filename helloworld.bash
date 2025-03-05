@@ -1,5 +1,5 @@
 #!/bin/bash
 
-var="Hello World"
+var="Hello Knut"
 echo "$var"
  
